@@ -1,13 +1,52 @@
-h1 {
-  font-family: "Playfair Display", serif;
+*{text-align: center;
+  color: #f9f7fe;
+margin:1440 900;
+
+} 
+
+header{
+  font-family: 'Poppins', sans-serif;
   font-style: bold;
+  font-size: 36px;
+  line-height: 54px;
+  font-weight: 700;
+  margin: 130 54;
+  color:black;
 }
 
+h1{
+  font-family: 'Playfair Display', serif;
+  font-size:96px;
+  line-height: 127.97px;
+  font-weight: 700;
+padding: 693 128;
+color:black;
+
+}
 p {
-  font-family: "Playfair Display", serif;
+ font-family: 'Poppins', sans-serif;
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 400;
+padding:462 36 ;
+  color:black;
+}
+
+.word{ color: white;
+  padding: 18 30 ;
+  width:200px;
   font-size: 18px;
   line-height: 27px;
-  font-weight: 700;
-  
 }
 
+
+button{
+  background-color: #6C63FF;
+  padding: 18 30 ;
+  width:200px;
+  margin-top: 566px;
+  margin-left: 618px;
+  border-radius: 4px;
+  height: 63px; 
+  border-color: #6C63FF;
+}
